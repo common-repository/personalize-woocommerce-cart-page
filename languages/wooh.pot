@@ -1,0 +1,504 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooHero\n"
+"POT-Creation-Date: 2020-06-19 19:55+0500\n"
+"PO-Revision-Date: 2020-06-19 19:52+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woohero.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/admin.php:74
+msgid "Button Labels"
+msgstr ""
+
+#: inc/admin.php:76
+msgid ""
+"Here you can personalized all \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbuttons labels. <a href=\"http://\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twww.najeebmedia.com/personalized-woostore-"
+"guide/#buttons\"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttarget=\"_blank\">How it works!</a>"
+msgstr ""
+
+#: inc/admin.php:82
+msgid "Add to cart"
+msgstr ""
+
+#: inc/admin.php:83
+msgid ""
+"It will replace button label\n"
+"\t\t\t\t\t \t\t\t\t\t\t\t\t               for products in <b>Shop</b>"
+msgstr ""
+
+#: inc/admin.php:91
+msgid "Single product add to cart"
+msgstr ""
+
+#: inc/admin.php:92
+msgid ""
+"It will replace default add to cart button label on <b>Single Product Page</"
+"b>"
+msgstr ""
+
+#: inc/admin.php:99
+msgid "View products"
+msgstr ""
+
+#: inc/admin.php:100
+msgid ""
+"It will replace default button label for <b>Grouped Products in Shop</b>"
+msgstr ""
+
+#: inc/admin.php:107
+msgid "Select options"
+msgstr ""
+
+#: inc/admin.php:108
+msgid ""
+"It will replace default button label for <b>Variable Products in Shop</b>"
+msgstr ""
+
+#: inc/admin.php:115
+msgid "Buy product"
+msgstr ""
+
+#: inc/admin.php:116
+msgid ""
+"It will replace default button label for <b>Eternal Products in Shop</b>"
+msgstr ""
+
+#: inc/admin.php:123
+msgid "Single product out of stock"
+msgstr ""
+
+#: inc/admin.php:124
+msgid "It will replace default out of stock text on <b>Single Product Page</b>"
+msgstr ""
+
+#: inc/admin.php:131
+msgid "Order button text"
+msgstr ""
+
+#: inc/admin.php:132
+msgid "It will replace default order button label on <b>Checkout Page</b>"
+msgstr ""
+
+#: inc/admin.php:143
+msgid "Cart Page"
+msgstr ""
+
+#: inc/admin.php:145
+msgid ""
+"Here you can personalized cart page areas. <a href=\"http://www.najeebmedia."
+"com/personalized-woostore-guide/#cart\" target=\"_blank\">How it works!</a>"
+msgstr ""
+
+#: inc/admin.php:147
+msgid "Before cart table"
+msgstr ""
+
+#: inc/admin.php:148
+msgid "It will show text <b>Before cart TABLE</b> on Cart Page"
+msgstr ""
+
+#: inc/admin.php:152 inc/admin.php:184 inc/admin.php:192 inc/admin.php:200
+#: inc/admin.php:208 inc/admin.php:216 inc/admin.php:224 inc/admin.php:232
+#: inc/admin.php:240 inc/admin.php:248 inc/admin.php:256 inc/admin.php:296
+#: inc/admin.php:304
+msgid "You can use HTML tags"
+msgstr ""
+
+#: inc/admin.php:155
+msgid "Before cart contents"
+msgstr ""
+
+#: inc/admin.php:156
+msgid "It will show text <b>Before cart CONTENTS</b> on Cart Page"
+msgstr ""
+
+#: inc/admin.php:160 inc/admin.php:168 inc/admin.php:176 inc/admin.php:264
+#: inc/admin.php:272 inc/admin.php:280 inc/admin.php:288
+msgid "Write between &lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;/tr&gt;"
+msgstr ""
+
+#: inc/admin.php:163
+msgid "After products"
+msgstr ""
+
+#: inc/admin.php:164
+msgid "It will show text <b>After cart ITEMS</b> on Cart Page"
+msgstr ""
+
+#: inc/admin.php:171
+msgid "After cart contents"
+msgstr ""
+
+#: inc/admin.php:172
+msgid "It will show text below PROCEED TO CHECKOUT button on cart page"
+msgstr ""
+
+#: inc/admin.php:179
+msgid "After cart table"
+msgstr ""
+
+#: inc/admin.php:180
+msgid "It will show text <b>After cart TABLE</b> on Cart Page"
+msgstr ""
+
+#: inc/admin.php:187
+msgid "At bottom of page"
+msgstr ""
+
+#: inc/admin.php:188
+msgid "It will show text at the <b>Bottom</b> on Cart Page"
+msgstr ""
+
+#: inc/admin.php:195
+msgid "After proceed to checkout button"
+msgstr ""
+
+#: inc/admin.php:196
+msgid "It will show text <b>After PROCEED TO CHECKOUT</b> button on Cart Page"
+msgstr ""
+
+#: inc/admin.php:203
+msgid "After coupon button"
+msgstr ""
+
+#: inc/admin.php:204
+msgid "It will show text <b>After COUPON button on Cart Page</b>"
+msgstr ""
+
+#: inc/admin.php:211
+msgid "Before cart totals"
+msgstr ""
+
+#: inc/admin.php:212
+msgid "It will show text <b>Before CART TOTALS</b> on Cart Page"
+msgstr ""
+
+#: inc/admin.php:219
+msgid "After cart totals"
+msgstr ""
+
+#: inc/admin.php:220
+msgid "It will show text <b>After CART TOTALS</b> on cart page"
+msgstr ""
+
+#: inc/admin.php:227
+msgid "When cart empty"
+msgstr ""
+
+#: inc/admin.php:228
+msgid "It will show text when <b>Cart is Empty</b>"
+msgstr ""
+
+#: inc/admin.php:235
+msgid "Before mini cart"
+msgstr ""
+
+#: inc/admin.php:236
+msgid "It will show text <b>Before MINI CART</b>"
+msgstr ""
+
+#: inc/admin.php:243
+msgid "Widget cart before buttons"
+msgstr ""
+
+#: inc/admin.php:244
+msgid "It will show text before button of <b>Widget Shopping</b> cart"
+msgstr ""
+
+#: inc/admin.php:251
+msgid "After mini cart"
+msgstr ""
+
+#: inc/admin.php:252
+msgid "It will show text <b>After Mini Cart</b>"
+msgstr ""
+
+#: inc/admin.php:259
+msgid "Cart totals before shipping"
+msgstr ""
+
+#: inc/admin.php:260
+msgid "It will show text <b>Before Shipping</b> cart totals"
+msgstr ""
+
+#: inc/admin.php:267
+msgid "Cart totals after shipping"
+msgstr ""
+
+#: inc/admin.php:268
+msgid "It will show text <b>After Shipping</b> cart totals"
+msgstr ""
+
+#: inc/admin.php:275
+msgid "Before order total"
+msgstr ""
+
+#: inc/admin.php:276
+msgid "It will show text <b>Before Order Totals</b>"
+msgstr ""
+
+#: inc/admin.php:283
+msgid "After order total"
+msgstr ""
+
+#: inc/admin.php:284
+msgid "It will show text <b>After Order Totals</b>"
+msgstr ""
+
+#: inc/admin.php:291
+msgid "Before shipping calculator"
+msgstr ""
+
+#: inc/admin.php:292
+msgid "It will show text <b>Before Shipping Calculator</b>"
+msgstr ""
+
+#: inc/admin.php:299
+msgid "After shipping calculator"
+msgstr ""
+
+#: inc/admin.php:300
+msgid "It will show text <b>After Shipping Calculator</b>"
+msgstr ""
+
+#: inc/admin.php:310
+msgid "Pro Features"
+msgstr ""
+
+#: inc/admin.php:312
+msgid "Get PRO version and enjoy following features"
+msgstr ""
+
+#: inc/admin.php:320
+msgid "Product Addon"
+msgstr ""
+
+#: inc/admin.php:322
+msgid "WooCommerce Product Addon"
+msgstr ""
+
+#: inc/classes/class.admin.php:85
+msgid "Sorry for security reason."
+msgstr ""
+
+#: inc/classes/class.admin.php:205
+msgid "All options are updated."
+msgstr ""
+
+#: inc/classes/class.admin.php:229
+msgid "Additional Product Tabs"
+msgstr ""
+
+#: inc/classes/class.admin.php:304
+msgid ""
+"It will disable the default product tabs otherwise following tabs will be "
+"append to default tabs"
+msgstr ""
+
+#: inc/classes/class.admin.php:304
+msgid "Disable default tabs?"
+msgstr ""
+
+#: inc/classes/class.admin.php:389
+msgid "Enable WooHero "
+msgstr ""
+
+#: inc/classes/class.admin.php:392
+msgid "Disable WooHero"
+msgstr ""
+
+#: inc/classes/class.admin.php:399 inc/classes/class.settings.php:351
+#: inc/classes/class.settings.php:360 inc/classes/class.settings.php:371
+#: inc/classes/class.settings.php:402 inc/classes/class.settings.php:413
+#: inc/classes/class.settings.php:499 inc/classes/class.settings.php:500
+#: inc/classes/class.settings.php:533 inc/classes/class.settings.php:580
+#: inc/classes/class.settings.php:592
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/classes/class.settings.php:268
+msgid "Private Product"
+msgstr ""
+
+#: inc/classes/class.settings.php:286
+msgid ""
+"It will hide content on the product page and add to cart button Just show "
+"the login form"
+msgstr ""
+
+#: inc/classes/class.settings.php:287
+msgid "Select Option"
+msgstr ""
+
+#: inc/classes/class.settings.php:289
+msgid "Disbale"
+msgstr ""
+
+#: inc/classes/class.settings.php:290
+msgid "Enable"
+msgstr ""
+
+#: inc/classes/class.settings.php:755
+msgid "Enquiry Sent!"
+msgstr ""
+
+#: inc/classes/class.settings.php:760
+msgid "Failed!"
+msgstr ""
+
+#: templates/admin/inquiry-tab.php:14
+msgid "Name:"
+msgstr ""
+
+#: templates/admin/inquiry-tab.php:18
+msgid "Email:"
+msgstr ""
+
+#: templates/admin/inquiry-tab.php:23
+msgid "Enquiry:"
+msgstr ""
+
+#: templates/admin/settings.php:15
+msgid "WooHero Store Customization"
+msgstr ""
+
+#: templates/admin/settings.php:170
+msgid "Save settings"
+msgstr ""
+
+#: templates/get-ppom.php:8
+msgid "Best Woocommerce Plugin to Add Fields on Product Page"
+msgstr ""
+
+#: templates/get-ppom.php:10
+msgid "21 Types Inputs"
+msgstr ""
+
+#: templates/get-ppom.php:11
+msgid "File/Image Upload"
+msgstr ""
+
+#: templates/get-ppom.php:12
+msgid "Options with Prices"
+msgstr ""
+
+#: templates/get-ppom.php:13
+msgid "Conditional Logic"
+msgstr ""
+
+#: templates/get-ppom.php:14
+msgid "Field Privacy Control"
+msgstr ""
+
+#: templates/get-ppom.php:15
+msgid "Responsive Design"
+msgstr ""
+
+#: templates/get-ppom.php:16
+msgid "Price Matrix, Discount"
+msgstr ""
+
+#: templates/get-ppom.php:17
+msgid "Much More"
+msgstr ""
+
+#: templates/get-ppom.php:20
+msgid "Demos"
+msgstr ""
+
+#: templates/get-ppom.php:21 templates/get-pro.php:21
+msgid "More Detail"
+msgstr ""
+
+#: templates/get-ppom.php:22
+msgid "Fields Types with Demos"
+msgstr ""
+
+#: templates/get-pro.php:8
+msgid "Get PRO Version for More Features"
+msgstr ""
+
+#: templates/get-pro.php:10
+msgid "Shop page"
+msgstr ""
+
+#: templates/get-pro.php:11
+msgid "Product page"
+msgstr ""
+
+#: templates/get-pro.php:12
+msgid "Cart page"
+msgstr ""
+
+#: templates/get-pro.php:13
+msgid "Checkout page"
+msgstr ""
+
+#: templates/get-pro.php:14
+msgid "My Account page"
+msgstr ""
+
+#: templates/get-pro.php:15
+msgid "Email template"
+msgstr ""
+
+#: templates/get-pro.php:16
+msgid "Product Tabs"
+msgstr ""
+
+#: templates/get-pro.php:17
+msgid "Enquiry From"
+msgstr ""
+
+#: templates/get-pro.php:18
+msgid "Redirect after add to cart URL"
+msgstr ""
+
+#: templates/products-tabs.php:24
+msgid "Save tabs"
+msgstr ""
+
+#: templates/products-tabs.php:25
+msgid "Reset tabs"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooHero"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.najeebmedia.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WOOHero is like a Swiss Army knife for WooCommerce. WooHero holds a bunch of "
+"features of many small plugins."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "N-Media"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.najeebmedia.com/"
+msgstr ""
